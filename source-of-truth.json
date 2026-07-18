@@ -1,0 +1,15 @@
+{
+  "aliasRoots": [],
+  "canonicalIndex": "/Users/johnmobley/golfdad.cc/index.html",
+  "canonicalRoot": "/Users/johnmobley/golfdad.cc",
+  "contentHash": "31e232bed03e7ec13b562f6e361bc4d1f944b29d78d1867d666ffac135f6e9bb",
+  "domain": "golfdad.cc",
+  "generatedAt": "2026-06-19T16:07:44.663062+00:00",
+  "note": "Canonical root is the live source of truth. Versions are stored beneath the root.",
+  "sourceKind": "canonical-root",
+  "sourceOfTruth": "/Users/johnmobley/golfdad.cc/index.html",
+  "sourcePath": "/Users/johnmobley/golfdad.cc",
+  "title": "golfdad.cc",
+  "versionLabel": "golfdad_cc_20260619T060803Z",
+  "versionPath": "/Users/johnmobley/golfdad.cc/versions/golfdad_cc_20260619T060803Z"
+}
