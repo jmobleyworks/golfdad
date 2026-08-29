@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>golfdad.cc</title>
+  <meta name="description" content="golfdad.cc on the Mobley network">
+  <style>
+    :root { color-scheme: dark; }
+    html, body { margin: 0; min-height: 100%; background: #050505; color: #f2efe7; font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    body { display: grid; place-items: center; min-height: 100vh; padding: 24px; }
+    .card { width: min(960px, 100%); border: 1px solid rgba(255, 191, 0, 0.24); background: rgba(0,0,0,.78); box-shadow: 0 0 0 1px rgba(255,191,0,.08), 0 30px 80px rgba(0,0,0,.45); padding: 48px; }
+    h1 { margin: 0 0 12px; font-size: clamp(28px, 5vw, 64px); letter-spacing: 0; }
+    p { margin: 0 0 12px; line-height: 1.5; color: rgba(242,239,231,.82); max-width: 70ch; }
+    .muted { color: rgba(242,239,231,.56); font-size: 14px; text-transform: uppercase; letter-spacing: .08em; }
+    .rule { height: 1px; background: linear-gradient(90deg, rgba(255,191,0,.55), rgba(255,191,0,0)); margin: 24px 0; }
+    code { color: #ffcf73; }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <div class="muted">Mobley Conglomerate</div>
+    <h1>golfdad.cc</h1>
+    <p>This domain is live on the machine and reserved in the canonical estate.</p>
+    <p>It is being materialized as part of the local nginx rootsite tree so it can be served consistently from this origin.</p>
+    <div class="rule"></div>
+    <p class="muted">Canonical root will be attached here. Until then, this placeholder keeps the domain live.</p>
+  </main>
+</body>
+</html>
